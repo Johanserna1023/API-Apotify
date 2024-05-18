@@ -1,5 +1,5 @@
 
-                                                                                  Consumiendo la API de spotify en angular (standalone components)
+                                 Consumiendo la API de spotify en angular (standalone components)
 
 
 ¡Hola! soy Elvis Johan Serna Vargas, y en esta ocasión te traigo un pequeño tutorial donde te explico como consumir la API de Spotify, a un nivel principiante. El objetivo de este tutorial es que aprendas a generar tokens utilizando la herramienta de Postman y que además aprendas a usar el modulo HttpClient que ofrece angular para realizar peticiones, en el tutorial he creado un pequeño clone de la pagina principal de la app móvil de Spotify, el proyecto lo puedes encontrar en GitHub, por si gustas clonarlo y tu mismo ir probando el tutorial paso por paso, como nota aclaratoria por fines rápidos, no mostrare como hice el maquetado y en algunos puntos no estuve tipiando todo (por rapidez) pero la idea es entender como funciona la api para traer los datos a nuestra app ( angular y ionic)
